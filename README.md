@@ -44,15 +44,8 @@
 - **Framework**: Express.js
 - **Database**: MongoDB with Mongoose
 - **Authentication**: JSON Web Tokens (JWT)
-- **Documentation**: Swagger/OpenAPI
+- **Documentation**: OpenAPI
 - **Testing**: Jest (unit testing)
-
-## API Documentation
-
-Full API documentation is available via Swagger UI at:
-```
-http://localhost:3000/api-docs
-```
 
 ## Getting Started
 
